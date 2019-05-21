@@ -5,3 +5,5 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.merge.
 add in dev branch
 add a new line in dv branch.
+add a new line in master.
+2
