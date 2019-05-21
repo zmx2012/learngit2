@@ -11,3 +11,5 @@ modified again a new line in master 14:40.
 add a new line in dev 14:41
 i'm the bester.
 add 
+delete 2
+add in master modify in dv
