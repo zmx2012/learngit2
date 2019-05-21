@@ -4,3 +4,4 @@ modify then push to origin git hub
 Creating a new branch is quick.
 Creating a new branch is quick and simple.merge.
 add in dev branch
+a new line master
