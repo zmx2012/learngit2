@@ -1,11 +1,10 @@
-the first line added on dev branch.
-dev 1 dev1
-dev 2 dev2
-dev 3 dev3
-fix the bug
 
-this is add in 0522,hahahahah.
-this is add in 0522, but not add in git add.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+modify then push to origin git hub
+Creating a new branch is quick.
+Creating a new branch is quick and simple.merge.
+add in dev branch
+add a new line in dv branch.
+add a new line in master.
 
-dev add 1
-dev add 2
